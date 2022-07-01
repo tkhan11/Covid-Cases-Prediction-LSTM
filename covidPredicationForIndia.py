@@ -1,4 +1,9 @@
-# LSTM for international airline passengers problem with regression framing
+#!/usr/bin/env python
+# coding: utf-8
+####
+### AUTHOR : TANVEER AHMED KHAN
+###
+
 import numpy 
 import matplotlib.pyplot as plt
 import pandas as pd

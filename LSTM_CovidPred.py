@@ -2,7 +2,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 ####
-### AUTHOR : TANVEER AHMED KHAN
+### AUTHOR: TANVEER AHMED KHAN
 ###
 
 import numpy
